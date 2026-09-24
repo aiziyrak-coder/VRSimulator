@@ -1,0 +1,65 @@
+# ===== Unity (loyiha repo ildizida joylashadi) =====
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Asset Store vositalari
+/[Aa]ssets/AssetStoreTools*
+
+# Unity'ning avtomatik yaratiladigan fayllari
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+crashlytics-build.properties
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Burst debug ma'lumotlari
+/[Aa]ssets/[Ss]treamingAssets/BurstDebugInformation_DoNotShip*
+
+# Addressables build natijalari
+/[Ss]erverData/
+
+# ===== IDE (Visual Studio / Rider / VS Code) =====
+.vs/
+.vscode/
+.idea/
+.consulo/
+ExportedObj/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ===== Android / Quest build natijalari =====
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.symbols.zip
+/[Aa]ssets/[Pp]lugins/[Aa]ndroid/*.keystore
+*.keystore
+*.jks
+
+# ===== Operatsion tizim =====
+.DS_Store
+Thumbs.db
+Desktop.ini
