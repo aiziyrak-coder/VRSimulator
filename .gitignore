@@ -63,3 +63,6 @@ ExportedObj/
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+# Mahalliy tizim hisoboti
+/system-report.txt
