@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!129 &1
+PlayerSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 26
+  productGUID: 7c4f1a2b9e3d445fa1b6c8d20e5f9071
+  companyName: Aiziyrak
+  productName: VRSimulator
+  defaultCursor: {fileID: 0}
+  m_ShowUnitySplashScreen: 0
+  m_ShowUnitySplashLogo: 0
+  m_SplashScreenOverlayOpacity: 1
+  m_VirtualRealitySplashScreen: {fileID: 0}
+  m_ColorSpace: 1
+  m_ActiveColorSpace: 1
+  m_ActiveInputHandler: 2
+  bundleVersion: 0.1.0
+  AndroidBundleVersionCode: 1
+  AndroidMinSdkVersion: 32
+  AndroidTargetSdkVersion: 0
+  AndroidPreferredInstallLocation: 1
+  androidBlitType: 1
+  androidFullscreenMode: 1
+  AndroidTargetArchitectures: 2
+  androidSupportedAspectRatio: 1
+  androidRenderOutsideSafeArea: 1
+  androidUseSwappy: 1
+  gpuSkinning: 1
+  useOnDemandResources: 0
+  stripEngineCode: 1
+  metroInputSource: 0
+  m_HolographicPauseOnTrackingLoss: 1
+  applicationIdentifier:
+    Android: com.aiziyrak.vrsimulator
+    Standalone: com.aiziyrak.vrsimulator
+  buildNumber:
+    Standalone: 0
+  scriptingBackend:
+    Android: 1
+    Standalone: 0
+  il2cppCompilerConfiguration:
+    Android: 1
+  managedStrippingLevel:
+    Android: 1
+  apiCompatibilityLevelPerPlatform: {}
+  activeInputHandler: 2
+  m_TemplateCustomTags: {}
+  platformRequiresReadableAssets: 0
